@@ -1,3 +1,5 @@
+For view the proyect of The Guitar shop enter in the next link of Netlify https://guitarshoppage.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
